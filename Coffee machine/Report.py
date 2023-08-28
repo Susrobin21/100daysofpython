@@ -4,7 +4,7 @@ menu = {
             "water": 50,
             "coffee": 18,
         },
-        "cost": 1.5,
+        "cost": 150,
     },
     "latte": {
         "ingredients": {
@@ -12,7 +12,7 @@ menu = {
             "milk": 150,
             "coffee": 24,
         },
-        "cost": 2.5,
+        "cost": 250,
     },
     "cappuccino": {
         "ingredients": {
@@ -20,10 +20,10 @@ menu = {
             "milk": 100,
             "coffee": 24,
         },
-        "cost": 3.0,
+        "cost": 300,
     }
 }
-
+profit = 0
 resources = {
     "water": 300,
     "milk": 200,
